@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.h1{
+    font-family: 'Audiowide', cursive;
+    font-size: 2rem;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 3px;
+    margin-left: 10px;
+    color:#fff;
+    animation-name: slideInFromLeft;
+        animation-duration: 5s;
+        animation-iteration-count: 2;
+    
+}
